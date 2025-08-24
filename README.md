@@ -130,7 +130,16 @@ Now open [http://localhost:8000](http://localhost:8000) in your browser.
 
 ## 📸 Screenshots
 
-(Add project screenshots here if available)
+<img width="1920" height="1080" alt="em1" src="https://github.com/user-attachments/assets/dcd833bd-7a0a-4d01-a7f4-05b89acf1e4a" />
+<img width="1920" height="1080" alt="em2" src="https://github.com/user-attachments/assets/3dd8ea9b-0de8-4dbb-bdc1-29cf1a44caa8" />
+<img width="1920" height="1080" alt="em3" src="https://github.com/user-attachments/assets/471515c8-390f-4b60-81f6-117f0ae32a65" />
+<img width="1920" height="1080" alt="em4" src="https://github.com/user-attachments/assets/afafa272-21cc-4d70-bd95-a154b4cf547c" />
+<img width="1920" height="1080" alt="em5" src="https://github.com/user-attachments/assets/77d9f7df-0d26-4534-bf25-a3d972f03ab4" />
+
+
+
+
+
 
 ---
 
